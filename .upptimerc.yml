@@ -68,7 +68,7 @@ i18n:
   ms: ms
   loading: Loading
   navGitHub: GitHub
-  footer: Esta pagina [open source]($REPO), es desarrollada por [Asimov](https://asimov.cl)
+  footer: Esta pagina es desarrollada y mantenida por [Asimov](https://asimov.cl)
   rateLimitExceededTitle: Excede el límite
   rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
   rateLimitExceededWhatDoesErrorMean: ¿A qué se refiere este error?
