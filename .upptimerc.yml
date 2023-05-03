@@ -22,8 +22,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /cl-asimov-uc-status
+  cname: status.uc.asimov.cl
+  # baseUrl: /
   logoUrl: https://asimov.cl/logo.svg
   name: Status UC por Asimov
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
