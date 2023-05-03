@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Portal UC
+    url: https://uc.cl
 
 assignees: # Users to assign downtime issues (optional)
   - eliasleyton
