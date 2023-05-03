@@ -5,8 +5,6 @@ repo: cl-asimov-uc-status
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Portal UC
     url: https://uc.cl
   - name: Sitio Kit Digital 
