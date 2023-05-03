@@ -28,7 +28,7 @@ status-website:
   name: Status UC por Asimov
   introTitle: "**Status UC** es un servicio de monitoreo de los sistemas que adminsitra para la Universidad Católica de Chile"
   introMessage: Si tiene dudas sobre este sitio por favor ponerse en contacto a direcciondigital@uc.cl o uc@asimov.cl
-  themeUrl: https://status.uc.asimov.cl/themes/my-custom-theme.css
+  themeUrl: https://raw.githubusercontent.com/Asimovers/cl-asimov-uc-status/master/assets/my-custom-theme.css
   navbar:
     - title: Status
       href: /
