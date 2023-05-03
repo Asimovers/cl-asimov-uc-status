@@ -9,7 +9,13 @@ sites:
     url: https://thissitedoesnotexist.koj.co
   - name: Portal UC
     url: https://uc.cl
-
+  - name: Sitio Kit Digital 
+    url: https://kitdigital.uc.cl
+  - name: Api Agenda UC
+    url: https://api.agenda.uc.asimov.cl/
+  - name: Sitio Agenda UC
+    url: https://cl-uc-agenda-front.netlify.app/
+    
 assignees: # Users to assign downtime issues (optional)
   - eliasleyton
 
