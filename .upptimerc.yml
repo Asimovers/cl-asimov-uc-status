@@ -3,11 +3,6 @@ owner: Asimovers
 repo: cl-asimov-uc-status
 
 sites:
-<<<<<<< HEAD
-  - name: Google
-    url: https://www.google.com
-=======
->>>>>>> bd9e213b6fe91ca59c58cf3253efccebaae36c43
   - name: Portal UC
     url: https://uc.cl
   - name: Sitio Kit Digital 
