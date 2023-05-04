@@ -3,8 +3,11 @@ owner: Asimovers
 repo: cl-asimov-uc-status
 
 sites:
+<<<<<<< HEAD
   - name: Google
     url: https://www.google.com
+=======
+>>>>>>> bd9e213b6fe91ca59c58cf3253efccebaae36c43
   - name: Portal UC
     url: https://uc.cl
   - name: Sitio Kit Digital 
@@ -57,7 +60,7 @@ i18n:
   overallUptime: "Tiempo de actividad: $UPTIME"
   overallUptimeTitle: Tiempo de actividad
   averageResponseTime: "Tiempo de respuesta prmedio: $TIMEms"
-  averageResponseTimeTitle: Respuesta promdio
+  averageResponseTimeTitle: Tiempo de Respuesta promedio
   sevelDayResponseTime: Tiempo de respuesta 7-dias
   responseTimeMs: Tiempo de respuesta (ms)
   up: Activo
@@ -75,7 +78,7 @@ i18n:
   rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
   rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
   rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
+  rateLimitExceededRemoveToken: Remover tolen
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
   rateLimitExceededCopyPastePAT: Copy and paste your token
   rateLimitExceededSaveToken: Save token
