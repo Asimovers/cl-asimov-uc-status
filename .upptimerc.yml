@@ -79,7 +79,7 @@ i18n:
   errorTitle: Ha ocurrido un error
   errorIntro: Ha ocurrido un error al intentar obtener los detalles de estado más recientes.
   errorText: Intenta más tarde
-  errorHome: Ir al Inicio
+  errorHome: Ir a la página Inicio
   pastScheduledMaintenance: Mantención Programada Anterior
   scheduledMaintenance: Mantención Programada
   scheduledMaintenanceSummaryStarted: Comenzó el $DATE por $DURATION minutos
