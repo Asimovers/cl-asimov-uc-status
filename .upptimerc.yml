@@ -20,12 +20,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.uc.asimov.cl
   # baseUrl: /
-  favicon: https://asimov.cl/favicon.png
-  logoUrl: https://asimov.cl/logo.svg
+  favicon: https://asimovers.github.io/status-page-guide/assets/favicon.png
+  logoUrl: https://asimovers.github.io/status-page-guide/assets/logo.svg
   name: Status UC por Asimov
   themeUrl: https://asimovers.github.io/status-page-guide/theme/asimov-dark.css
-  introTitle: "**Status UC** es un servicio de monitoreo de los sistemas que adminsitra Asimov el cliente Universidad Católica de Chile"
-  introMessage: Si tiene dudas sobre este sitio, por favor ponerse en contacto a [direcciondigital@uc.cl](mailto:direcciondigital@uc.cl). o [incidencias-uc@asimov.cl](mailto:incidencias-uc@asimov.cl)
+  introTitle: "**Status UC** es un servicio que monitorea los sistemas que ha desarrollado Asimov para la Universidad Católica de Chile."
+  introMessage: Si tiene dudas sobre este sitio, por favor ponerse en contacto a [direcciondigital@uc.cl](mailto:direcciondigital@uc.cl). o [incidencias-uc@asimov.cl](mailto:incidencias-uc@asimov.cl).
   navbar:
     - title: Status
       href: /
@@ -39,8 +39,8 @@ i18n:
   allSystemsOperational: Todos los sistemas estan operativos
   incidentReport: "Incidencia #$NUMBER reporte →"
   activeIncidentSummary: Abierta el $DATE con $POSTS actualizaciones
-  incidentTitle: Incident $NUMBER Details
-  incidentDetails: Incident Details
+  incidentTitle: Incidencia $NUMBER, detalle
+  incidentDetails: Detalle de incidencias
   incidentFixed: Corregido
   incidentOngoing: En curso
   incidentOpenedAt: Abierta el
@@ -63,7 +63,7 @@ i18n:
   ms: ms
   loading: Cargando
   navGitHub: GitHub
-  footer: Esta pagina es mantenida por [Asimov](https://asimov.cl)
+  footer: Esta página es mantenida por [Asimov](https://asimov.cl).
   rateLimitExceededTitle: Excede el límite
   rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
   rateLimitExceededWhatDoesErrorMean: ¿A qué se refiere este error?
