@@ -4,10 +4,10 @@
     "url": "https://uc.cl",
     "icon": "https://icons.duckduckgo.com/ip3/uc.cl.ico",
     "slug": "portal-uc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1590,
@@ -16,6 +16,7 @@
     "timeMonth": 1590,
     "timeYear": 1590,
     "dailyMinutesDown": {
+      "2023-06-01": 1,
       "2023-05-22": 5
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://kitdigital.uc.cl",
     "icon": "https://icons.duckduckgo.com/ip3/kitdigital.uc.cl.ico",
     "slug": "sitio-kit-digital",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 560,
     "timeMonth": 522,
     "timeYear": 522,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "Api Agenda UC",
