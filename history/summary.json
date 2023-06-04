@@ -10,11 +10,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
-    "time": 1551,
-    "timeDay": 1486,
-    "timeWeek": 1333,
-    "timeMonth": 1551,
-    "timeYear": 1551,
+    "time": 1541,
+    "timeDay": 1089,
+    "timeWeek": 1253,
+    "timeMonth": 1515,
+    "timeYear": 1541,
     "dailyMinutesDown": {
       "2023-06-01": 16,
       "2023-05-22": 5
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kitdigital.uc.cl.ico",
     "slug": "sitio-kit-digital",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 516,
-    "timeDay": 731,
-    "timeWeek": 479,
-    "timeMonth": 516,
-    "timeYear": 516,
+    "uptimeYear": "99.97%",
+    "time": 510,
+    "timeDay": 224,
+    "timeWeek": 422,
+    "timeMonth": 509,
+    "timeYear": 510,
     "dailyMinutesDown": {
       "2023-06-01": 16
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 266,
-    "timeDay": 343,
-    "timeWeek": 244,
-    "timeMonth": 266,
-    "timeYear": 266,
+    "time": 262,
+    "timeDay": 73,
+    "timeWeek": 204,
+    "timeMonth": 259,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2023-05-04": 4
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 169,
-    "timeWeek": 165,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 201,
+    "timeDay": 98,
+    "timeWeek": 153,
+    "timeMonth": 185,
+    "timeYear": 201,
     "dailyMinutesDown": {}
   }
 ]
