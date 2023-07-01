@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uc.cl.ico",
     "slug": "portal-uc",
     "status": "down",
-    "uptime": "93.66%",
+    "uptime": "93.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "88.06%",
-    "uptimeYear": "93.66%",
+    "uptimeYear": "93.77%",
     "time": 1540,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 1390,
+    "timeMonth": 1406,
     "timeYear": 1540,
     "dailyMinutesDown": {
       "2023-06-19": 917,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 524,
-    "timeDay": 511,
-    "timeWeek": 532,
-    "timeMonth": 512,
-    "timeYear": 524,
+    "time": 529,
+    "timeDay": 911,
+    "timeWeek": 553,
+    "timeMonth": 539,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2023-06-01": 16
     }
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 221,
-    "timeWeek": 279,
-    "timeMonth": 266,
+    "timeDay": 253,
+    "timeWeek": 254,
+    "timeMonth": 274,
     "timeYear": 269,
     "dailyMinutesDown": {
       "2023-05-04": 4
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 100,
-    "timeWeek": 131,
-    "timeMonth": 170,
-    "timeYear": 194,
+    "time": 200,
+    "timeDay": 664,
+    "timeWeek": 202,
+    "timeMonth": 191,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   }
 ]
